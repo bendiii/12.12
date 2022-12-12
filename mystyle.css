@@ -6,8 +6,7 @@ a{text-decoration: none;color: crimson;}
     background-color: blue;
     margin:20px
 }
-div{border:10px blue;
-    border:solid;
+div{border:10px blue solid;
     margin-top: 10px;
     margin-bottom: 10px;
  }
